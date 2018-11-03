@@ -1,1 +1,8 @@
 # Proiect
+
+1.Introducere
+   Cinefil(m) este o aplicatie care presupune managementul filemelor favorite. Produsul nostru isi propune sa gestioneze pentru fiecare utilizator in parte preferintele lui in materie cinematografica. Acesta va contine liste pentru filmele favorite sortate in categorii de catre utilizator, el oferind posibilitatea de a  cauta noi filme, de a adauga si de a sterge elemente din lista. Pe langa aceste liste, produsul nostru va oferi si posibilitatea afisarii unei statistici legate de genul cel mai indragit de catre utilizator, prezentand un top al categoriilor din care fac parte majoritatea filmelor favorite. Aplicatia integreaza TMDB (The Movie Database) luand informatiile legate de filme de pe aceast site. Proiectul,  o aplicatie web, creata cu ajutorul tehnologiilor web HTML5, JavaScript va prezenta informatii furnizate de TMDB.
+    Produsul nostru se adreseaza, in special, cinefililor de toate varstele, fiind usor de utilizat si eficient in gestionarea preferintelor cinematografice. Consideram ca exista foarte multe persoane doritoare sa gaseasca un manager de filme care sa le serveasca in a usura sarcina de a inregistra de mana filmele pe care le-au vazut si detaliile aferente lor.
+	 Cinefil(m) intra in competitie cu aplicatii precum My Movies , Letterboxd si popularul IMDb (Internet Movie Database). My Movies este o apliatie platita, atat pentru desktop, cat si pentru dispozitivele mobile. Aceasta ii permite utilizatorului sa vizioneze filmele din colectia sa. Letterboxd isi doreste sa fie vazut mai mult ca un jurnal de filme, unde persoanele interesate pot sa dea note filmelor si sa comunice cu alte persoane in functie de gusturile lor in materie cinematografica.
+
+  
