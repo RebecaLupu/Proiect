@@ -17,30 +17,57 @@ Cinefil(m) intra in competitie cu aplicatii precum [My Movies](https://www.mymov
 ![alt text](https://github.com/AMarines02/Proiect/blob/master/5.jpg)
 
 ## 3.API REST
-1.Vezi genurile de filme
-get /genre
-[ {
+
+
+### 1.Vizualizarea genurilor de filme
+
+get /genre  
+  
+  [{
+  
 	"gen":"Comedie",
+	
 	"numarFilme":"375"
+	
    }
-]
-2. Vezi filmele dintr-un anumit gen(id)
-get/genre/:id/movies
-3.Cautarea unui film
+  ]
+
+
+### 2.Vizualizarea filmelor dintr-un anumit gen(id)
+   
+  get/genre/:id/movies
+
+
+### 3.Cautarea unui film
+
 get/movies/?:search=
+
 [
-  {
-	"titlu":"Dead and loving it"
-	"director":"Mel Brooks",
-	"an":"1995",
-        "durata":"88"
-   }
+{
+		
+	"titlu":"Dead and loving it"	
+	
+	"director":"Mel Brooks",	
+	
+	"an":"1995",     
+	
+	"durata":"88"
+  
+  }
 ]
-4.Adaugarea unui film
+
+
+### 4.Adaugarea unui film
+
 get/movies/?search=
+
 put/favorite/:id
-5.Stergerea unui film din lista de favorite
+
+
+### 5.Stergerea unui film din lista de favorite
+
 get/movies/?search=
+
 delete/favorite/:id
 
 
