@@ -17,5 +17,6 @@ Cinefil(m) intra in competitie cu aplicatii precum [My Movies](https://www.mymov
 ![alt text](https://github.com/AMarines02/Proiect/blob/master/5.jpg)
 
 ## 3.API REST
-## 2.Interfețe aplicație
+
+
 
